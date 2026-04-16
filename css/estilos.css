@@ -25,11 +25,12 @@ p{
     text-align: left;
 }
 
-#tarjeta{
-    width: 300px;
+#contenedorTarjeta{
+    width: 400px;
+    height: 250px;
+    margin: auto;
     border: 15px solid green;
-    padding: 50px;
-    margin: 20px;
+    padding: 2rem;
     background-color: blanchedalmond;
 }
 
