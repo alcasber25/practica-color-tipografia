@@ -1,0 +1,69 @@
+#one{
+    color: rgb(0, 0, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3em;
+    text-align: center;
+}
+
+#two{
+    color: rgb(0, 128, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    text-align: left;
+}
+
+#three{
+    color: rgb(128, 0, 128);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    text-align: right;
+}
+
+p{
+    color: rgb(57, 56, 62);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+}
+
+#tarjeta{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    background-color: blanchedalmond;
+}
+
+#nombreTarjeta{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+    font-weight: 700;
+    text-align: center;
+    color: rgb(20, 20, 21);  
+    line-height: 0.9em;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+
+}
+
+#descripcionTarjeta{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    font-weight: 400;
+    text-align: center;
+    line-height: 0.8em;
+    letter-spacing: 2px;
+    text-transform:capitalize;
+}
+
+#textoTarjeta{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    font-weight: 100;
+    text-align: center;
+    line-height: 1em;
+}
+
+#parrafoJustificado{
+    text-align: justify;
+    text-indent: 2em;
+    line-height: 1.5em;
+}
